@@ -67,7 +67,7 @@ npm run dev
 ```
 
 ## Folder Structure
-
+```
 Notes-App/
 ├── backend/
 │   ├── models/
@@ -80,7 +80,7 @@ Notes-App/
 │   │   ├── pages/
 │   │   └── App.jsx
 └── README.md
-
+```
 ## Future Enhancements
 - Add user registration and password reset
 - Enable note tagging and color coding
